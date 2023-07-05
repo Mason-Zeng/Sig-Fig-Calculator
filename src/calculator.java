@@ -9,6 +9,5 @@ public class calculator {
         test.trailZero();
         test.numSig();
         System.out.println(test);
-        //test if i can push
     }
 }
