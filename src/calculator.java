@@ -11,7 +11,7 @@ public class calculator {
         test.numSig();
         System.out.println(test);
         */
-        System.out.println("Put two numbers to add");
+        System.out.println("Put two numbers to subtract");
         String x = scan.nextLine();
         String y = scan.nextLine();
         System.out.println(Double.parseDouble(x) - Double.parseDouble(y));
